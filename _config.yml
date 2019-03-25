@@ -1,6 +1,7 @@
 title: credits.txt
 url: https://creditstxt.com
 homepage: https://creditstxt.com
+repository: kemitchell/creditstxt.com
 exclude:
   - README.md
   - CNAME
