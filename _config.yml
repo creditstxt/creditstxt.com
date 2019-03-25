@@ -7,3 +7,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .gitignore
+  - credits.rb
+  - Rakefile
