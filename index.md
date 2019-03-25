@@ -17,3 +17,5 @@ You should put credits for contributions to your website or web app in a UTF-8-e
 - film industry norms for [opening credits](https://en.wikipedia.org/wiki/Opening_credits), [closing credits](https://en.wikipedia.org/wiki/Closing_credits), and [credit systems](https://en.wikipedia.org/wiki/WGA_screenwriting_credit_system)
 
 - [billing norms](https://en.wikipedia.org/wiki/Billing_(performing_arts)) in a variety of creative arts
+
+- print [mastheads](https://en.wikipedia.org/wiki/Masthead_(publishing)) and [lead authorship](https://en.wikipedia.org/wiki/Lead_author)
