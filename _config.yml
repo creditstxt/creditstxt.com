@@ -1,0 +1,9 @@
+title: credits.txt
+url: https://creditstxt.com
+homepage: https://creditstxt.com
+exclude:
+  - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
