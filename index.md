@@ -6,7 +6,7 @@ Use `credits.txt` to give credit to those whose contributors otherwise wouldn't 
 
 ## Useful Tools
 
-- [creditstxt](https://www.npmjs.com/package/creditstxt)
+- [creditstxt npm package](https://www.npmjs.com/package/creditstxt): list contributors to [npm](https://www.npmjs.com) packages you use.
 
 ## Prior Art
 
