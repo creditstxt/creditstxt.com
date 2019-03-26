@@ -8,7 +8,7 @@ Use `credits.txt` to give credit to those whose contributors otherwise wouldn't 
 
 - [creditstxt npm package](https://www.npmjs.com/package/creditstxt): list contributors to [npm](https://www.npmjs.com) packages you use.
 
-- [short ruby script]({{site.github.repository_url}}/blob/master/credits.rb) to [credit](/credits.txt) authors of [RubyGems](https://rubygems.org) used to make this site
+- [creditstxt RubyGem](https://rubygems.org/gems/creditstxt): list contributors to [RubyGems](https://rubygems.org) you use.
 
 ## Prior Art
 
