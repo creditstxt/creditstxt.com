@@ -10,13 +10,13 @@ Use `credits.txt` to give credit to those whose contributors otherwise wouldn't 
 
 ## Prior Art
 
-- [`robots.txt` robot exclusion protocol](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
+- [`robots.txt`](https://en.wikipedia.org/wiki/Robots_exclusion_standard) robot exclusion protocol
 
-- Internet Advertising Bureau's [`ads.txt` initiative](https://en.wikipedia.org/wiki/Ads.txt)
+- Internet Advertising Bureau's [`ads.txt`](https://en.wikipedia.org/wiki/Ads.txt)
 
 - [`humans.txt`](http://humanstxt.org/)
 
-- film industry norms and [systems](https://en.wikipedia.org/wiki/WGA_screenwriting_credit_system) for [opening credits](https://en.wikipedia.org/wiki/Opening_credits) and [closing credits](https://en.wikipedia.org/wiki/Closing_credits)
+- film industry norms and [systems](https://en.wikipedia.org/wiki/WGA_screenwriting_credit_system) for [opening](https://en.wikipedia.org/wiki/Opening_credits) and [closing](https://en.wikipedia.org/wiki/Closing_credits) credits
 
 - [billing norms](https://en.wikipedia.org/wiki/Billing_(performing_arts)) in a variety of creative arts
 
