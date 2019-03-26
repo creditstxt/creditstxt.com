@@ -1,5 +1,3 @@
-# credits.txt
-
 You should put credits for contributions to your website or web app in a UTF-8-encoded, plain-text file served at `/credits.txt`, without authentication.
 
 Use `credits.txt` to give credit to those whose contributors otherwise wouldn't be recognized and appreciated.

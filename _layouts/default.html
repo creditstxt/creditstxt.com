@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <title>{{site.title}}{% if page.title %} / {{page.title}}{% endif %}</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:title" content="{{site.title}}">
+    <meta property="og:description" content="{{site.description}}">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:url" content="https://creditstxt.com/">
+    <meta property="og:site_name" content="{{site.title}}">
+    <link rel="canonical" href="https://creditstxt.com/">
+    <script type="application/ld+json">{"@type":"WebSite","url":"https://creditstxt.com/","name":"credits.txt","headline":"credits.txt","@context":"http://schema.org"}</script>
+    <link rel="stylesheet" href="/normalize.css">
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <header>
+      <h1>{% if page.title %}{{page.title}}{% else %}{{site.title}}{% endif %}</h1>
+    </header>
+    <main>
+      {{content}}
+    </main>
+    <footer>
+      <a href="{{site.github.repository_url}}">Help improve creditstxt.com on GitHub.</a>
+    </footer>
+  </body>
+</html>
