@@ -16,7 +16,7 @@ Use `credits.txt` to give credit to those whose contributors otherwise wouldn't 
 
 - [`humans.txt`](http://humanstxt.org/)
 
-- film industry norms for [opening credits](https://en.wikipedia.org/wiki/Opening_credits), [closing credits](https://en.wikipedia.org/wiki/Closing_credits), and [credit systems](https://en.wikipedia.org/wiki/WGA_screenwriting_credit_system)
+- film industry norms and [systems](https://en.wikipedia.org/wiki/WGA_screenwriting_credit_system) for [opening credits](https://en.wikipedia.org/wiki/Opening_credits) and [closing credits](https://en.wikipedia.org/wiki/Closing_credits)
 
 - [billing norms](https://en.wikipedia.org/wiki/Billing_(performing_arts)) in a variety of creative arts
 
