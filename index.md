@@ -1,6 +1,6 @@
-You should put credits for contributions to your website or web app in a UTF-8-encoded, plain-text file served at `/credits.txt`, without authentication.
+Use `credits.txt` to give credit to contributors to your website.
 
-Use `credits.txt` to give credit to those whose contributors otherwise wouldn't be recognized and appreciated.
+Serve `credits.txt` as a UTF-8-encoded, plain-text at `/credits.txt`, without authentication.
 
 ## Useful Tools
 
