@@ -4,6 +4,8 @@ Many people sharing work for free online rely on credits to build reputation.  A
 
 ## How To
 
+For each contributor, list their name and a description of what they contributed.
+
 Serve `credits.txt` as a UTF-8-encoded, plain-text file at `/credits.txt`, without authentication.
 
 Include a link in your `<head>` tags:
