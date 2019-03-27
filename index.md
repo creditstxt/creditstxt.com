@@ -1,18 +1,24 @@
-Use `credits.txt` to give credit to contributors to your website.
+Use `credits.txt` to credit contributors to your website, like open source software developers, who don't get credit in your site's text.
 
-Serve `credits.txt` as a UTF-8-encoded, plain-text at `/credits.txt`, without authentication.
+Many people sharing work for free online rely on credits to build reputation.  A good reputation helps them find the paying opportunities that fund their free work.
+
+## How To
+
+Serve `credits.txt` as a UTF-8-encoded, plain-text file at `/credits.txt`, without authentication.
+
+Include a link in your `<head>` tags:
+
+```html
+<link rel="credits" href="/credits.txt" />
+```
 
 ## Useful Tools
 
-- [creditstxt npm package](https://www.npmjs.com/package/creditstxt): list contributors to [npm](https://www.npmjs.com) packages you use.
+- The [creditstxt npm package](https://www.npmjs.com/package/creditstxt) lists contributors to all the [npm](https://www.npmjs.com) packages you use.
 
-- [creditstxt RubyGem](https://rubygems.org/gems/creditstxt): list contributors to [RubyGems](https://rubygems.org) you use.
+- The [creditstxt RubyGem](https://rubygems.org/gems/creditstxt) lists authors of all the [RubyGems](https://rubygems.org) you use.
 
 ## Prior Art
-
-- [`robots.txt`](https://en.wikipedia.org/wiki/Robots_exclusion_standard) robot exclusion protocol
-
-- Internet Advertising Bureau's [`ads.txt`](https://en.wikipedia.org/wiki/Ads.txt)
 
 - [`humans.txt`](http://humanstxt.org/)
 
@@ -21,3 +27,7 @@ Serve `credits.txt` as a UTF-8-encoded, plain-text at `/credits.txt`, without au
 - [billing norms](https://en.wikipedia.org/wiki/Billing_(performing_arts)) in a variety of creative arts
 
 - print [mastheads](https://en.wikipedia.org/wiki/Masthead_(publishing)) and [lead authorship](https://en.wikipedia.org/wiki/Lead_author)
+
+- [`robots.txt`](https://en.wikipedia.org/wiki/Robots_exclusion_standard) robot exclusion protocol
+
+- Internet Advertising Bureau's [`ads.txt`](https://en.wikipedia.org/wiki/Ads.txt)
