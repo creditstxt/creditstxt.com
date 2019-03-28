@@ -14,6 +14,8 @@ Include a link in your `<head>` tags:
 <link rel="credits" href="/credits.txt" />
 ```
 
+See [this site's `credits.txt`](/credits.txt) for an example.
+
 ## Tools
 
 - The [creditstxt npm package](https://www.npmjs.com/package/creditstxt) lists contributors to all the [npm](https://www.npmjs.com) packages you use.
