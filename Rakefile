@@ -6,5 +6,5 @@ task 'credits.txt' => 'credits.rb' do
   `git log --pretty="%an%n%cn" | sort -u >> credits.txt`
   `echo >> credits.txt`
   `echo "The following people contributed to RubyGems that creditstxt.com uses:\n" >> credits.txt`
-  `./credits.rb >> credits.txt`
+  `bundle exec creditstxt >> credits.txt`
 end

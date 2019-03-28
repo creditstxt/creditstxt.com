@@ -16,6 +16,8 @@ GEM
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.5)
+    creditstxt (1.0.2)
+      bundler
     dnsruby (1.61.2)
       addressable (~> 2.5)
     em-websocket (0.5.1)
@@ -242,6 +244,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  creditstxt (~> 1.0.2)
   github-pages
 
 BUNDLED WITH
