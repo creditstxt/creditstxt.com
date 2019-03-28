@@ -4,7 +4,7 @@ Many people sharing work for free online rely on credits to build reputation.  A
 
 ## How To
 
-For each contributor, list their name and a description of what they contributed.
+For each contributor, list their name and a description of what they contributed.  If you use work from lots of people, [compile your `credits.txt` automatically, with a free tool](#tools).
 
 Serve `credits.txt` as a UTF-8-encoded, plain-text file at `/credits.txt`, without authentication.
 
