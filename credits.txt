@@ -1,5 +1,9 @@
 creditstxt.com is built with Jekyll on GitHub Pages.
 
+The following people contributed to the content of creditstxt.com:
+
+Kyle E. Mitchell
+
 The following people contributed to RubyGems that creditstxt.com uses:
 
 Aaron Patterson: nokogiri (1.10.2)
