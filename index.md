@@ -20,6 +20,8 @@ Include a link in your `<head>` tags:
 
 - The [creditstxt RubyGem](https://rubygems.org/gems/creditstxt) lists authors of all the [RubyGems](https://rubygems.org) you use.
 
+- The [git-creditstxt script](https://github.com/kemitchell/git-creditstxt) lists all Git commit authors and committers.
+
 ## Prior Art
 
 - [`humans.txt`](http://humanstxt.org/)
