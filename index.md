@@ -22,7 +22,7 @@ See [this site's `credits.txt`](/credits.txt) for an example.
 
 - The [creditstxt RubyGem](https://rubygems.org/gems/creditstxt) lists authors of all the [RubyGems](https://rubygems.org) you use.
 
-- The [git-creditstxt script](https://github.com/kemitchell/git-creditstxt) lists all Git commit authors and committers.
+- The [git-creditstxt script](https://github.com/creditstxt/git-creditstxt) lists all Git commit authors and committers.
 
 ## Prior Art
 

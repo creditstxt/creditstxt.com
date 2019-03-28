@@ -2,7 +2,7 @@ title: credits.txt
 description: credits for website contributors
 url: https://creditstxt.com
 homepage: https://creditstxt.com
-repository: kemitchell/creditstxt.com
+repository: creditstxt/creditstxt.com
 exclude:
   - README.md
   - CNAME
